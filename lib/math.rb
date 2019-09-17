@@ -50,6 +50,7 @@ end
 def square_root(num)
   math.sqrt()
   puts "Enter number"
-  num ==
+  sqrt = math.sqrt(num)
+  puts (num)
 
 end
