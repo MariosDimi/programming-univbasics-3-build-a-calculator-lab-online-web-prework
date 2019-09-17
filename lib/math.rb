@@ -49,6 +49,7 @@ end
 
 def square_root(num)
   math.sqrt()
-  
+  puts "Enter number"
+  num ==
 
 end
