@@ -45,7 +45,12 @@ end
 
 def modulo(num1, num2)
   puts "Enter first number"
-  num1 ==
+  num1 == gets.chomp()
+  puts "Enter second number"
+  num2 == gets.chomp()
+  
+  if modulo == %
+    puts (num %)
 
 end
 
