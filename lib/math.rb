@@ -44,6 +44,8 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
+  puts "Enter first number"
+  num1 ==
 
 end
 
